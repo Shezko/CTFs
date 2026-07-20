@@ -363,7 +363,7 @@ readelf -S binario
 objdump -h binario
 ```
 
-## Chuleta GDB corta
+## Resumen GDB corto
 
 ```gdb
 break main
